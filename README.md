@@ -38,11 +38,6 @@ It uses the **OpenWeatherMap API** to provide real-time daily weather forecasts 
 
 ---
 
-## 🖼️ Screenshots
-![App Screenshot](images/screenshot.png)
-
----
-
 ## 🛠️ Tech Stack
 - Python  
 - PyQt6  
